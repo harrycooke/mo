@@ -1,5 +1,7 @@
 # Hi Mo! 
 
+![Image](https://homepages.cae.wisc.edu/~ece533/images/airplane.png)
+
 You can read how this works here (not sure the links will work though):
 
 You can use the [editor on GitHub](https://github.com/harrycooke/mo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://homepages.cae.wisc.edu/~ece533/images/airplane.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
